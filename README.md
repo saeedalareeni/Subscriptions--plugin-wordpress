@@ -1,8 +1,6 @@
 # Compare Subscription Plans - Best Prices for Your Needs | Subscriptions table price Plugin Wordpress
 
-# [Your Plugin Name]
-
-![Plugin Logo](link-to-your-logo.png)
+# Subscriptions table prices
 
 Welcome to Subscriptions table price! This plugin offers a comprehensive subscription table price solution for your WordPress website. Compare subscription plans, find the best prices, and select the options that suit your needs.
 
