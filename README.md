@@ -33,3 +33,5 @@ Use these shortcodes to display the subscription table on your WordPress site:
 
 ```shortcode
 [SubscriptoinPlugin]
+```
+## My Email: saeedalareeni@gmail.com
